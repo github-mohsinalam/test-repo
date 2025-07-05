@@ -1,0 +1,3 @@
+Maths 90
+Physics 80
+Chemistry 95
